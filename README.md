@@ -42,8 +42,8 @@ Numpy
 Installation
 bash
 Copy
-git clone https://github.com/yourusername/trash-collector-ai.git
-cd trash-collector-ai
+git clone https://github.com/monokatarina/IA_in_complex_game_snn
+cd IA_in_complex_game_snn
 pip install -r requirements.txt
 Basic Usage
 python
