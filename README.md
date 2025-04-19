@@ -26,7 +26,7 @@ This project simulates autonomous agents with hybrid neural architectures (MLP +
 → [MultiheadAttention] 
 → [ResidualBlocks(256→128→64)] 
 → [SNN Layers(64→64→32→32)] 
-→ [Output(5 actions)]
+→ [Output(5 actions)].
 🚀 Getting Started
 Prerequisites
 Python 3.8+
