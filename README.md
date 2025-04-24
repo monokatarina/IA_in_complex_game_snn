@@ -19,16 +19,19 @@ This project simulates autonomous agents with hybrid neural architectures (MLP +
 | **Competitive Modes** | Configurable for both competitive and cooperative scenarios |
 
 ## 🧩 Technical Components
-```python
 # Neural Architecture Diagram
-[Input(22+4*MEMORY_SIZE)] 
-→ [LayerNorm → Dense(512) → LeakyReLU] 
-→ [MultiheadAttention] 
-→ [ResidualBlocks(256→128→64)] 
-→ [SNN Layers(64→64→32→32)] 
-→ [Output(5 actions)]|
-```
 
+```mermaid
+graph LR
+    Input[Input<br>22+4×MEMORY_SIZE] 
+    --> Norm[LayerNorm]
+    --> Dense[Dense<br>512]
+    --> Act[LeakyReLU]
+    --> Attention[MultiheadAttention]
+    --> Residual[Residual Blocks<br>256→128→64]
+    --> SNN[SNN Layers<br>64→64→32→32]
+    --> Output[Output<br>5 actions]
+```
 ##🚀 Getting Started
 Prerequisites
 Python 3.8+
