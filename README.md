@@ -27,6 +27,7 @@ This project simulates autonomous agents with hybrid neural architectures (MLP +
 → [ResidualBlocks(256→128→64)] 
 → [SNN Layers(64→64→32→32)] 
 → [Output(5 actions)]|
+```
 
 ##🚀 Getting Started
 Prerequisites
@@ -61,6 +62,7 @@ trainer = EvolutionaryTrainer(
 
 # Run evolution for 1000 episodes
 trainer.train(total_episodes=1000)
+
 📊 Performance Metrics
 Training Progress
 Sample training curve showing reward progression across generations
