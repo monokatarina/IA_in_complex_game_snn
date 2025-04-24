@@ -32,7 +32,7 @@ graph LR
     --> SNN[SNN Layers<br>64→64→32→32]
     --> Output[Output<br>5 actions]
 ```
-##🚀 Getting Started
+## 🚀 Getting Started
 Prerequisites
 Python 3.8+
 
