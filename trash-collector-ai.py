@@ -3021,10 +3021,10 @@ if __name__ == "__main__":
         
         # Configurações
         config = {
-            'num_agents': 10,
+            'num_agents': 5,
             'with_curiosity': False,
             'episodes': 1000,
-            'render': False
+            'render': True
         }
         
         # Seleciona modo de treinamento
