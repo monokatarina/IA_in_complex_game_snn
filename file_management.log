@@ -1,0 +1,106 @@
+2025-04-23 21:43:22,965 - INFO - Total de lixos: 3
+2025-04-23 21:43:23,018 - INFO - Inicializando CompetitiveTrashGame com 5 agentes
+2025-04-23 21:43:23,022 - INFO - EvolutionaryTrainer inicializado com 5 agentes
+2025-04-23 21:43:23,024 - INFO - Iniciando treinamento com 5 agentes
+2025-04-23 21:43:23,028 - INFO - 
+=== Episódio 1/1000 ===
+2025-04-23 21:43:23,033 - INFO - Total de lixos: 3
+2025-04-23 21:43:23,319 - ERROR - Erro durante o treinamento: As coordenadas devem ser números.
+2025-04-23 21:43:23,387 - ERROR - Erro ao avaliar agentes: max() iterable argument is empty
+2025-04-23 21:43:23,434 - ERROR - Erro na finalização: too many values to unpack (expected 2)
+2025-04-23 21:49:40,884 - INFO - Total de lixos: 3
+2025-04-23 21:49:40,922 - INFO - Inicializando CompetitiveTrashGame com 5 agentes
+2025-04-23 21:49:40,925 - INFO - EvolutionaryTrainer inicializado com 5 agentes
+2025-04-23 21:49:40,925 - INFO - Iniciando treinamento com 5 agentes
+2025-04-23 21:49:40,926 - INFO - 
+=== Episódio 1/1000 ===
+2025-04-23 21:49:40,944 - INFO - Total de lixos: 3
+2025-04-23 21:49:40,951 - ERROR - Erro durante o treinamento: As coordenadas devem ser números.
+2025-04-23 21:49:40,960 - ERROR - Erro ao avaliar agentes: max() iterable argument is empty
+2025-04-23 21:49:40,962 - ERROR - Erro na finalização: too many values to unpack (expected 2)
+2025-04-23 21:54:28,929 - INFO - Total de lixos: 3
+2025-04-23 21:54:28,961 - INFO - Inicializando CompetitiveTrashGame com 5 agentes
+2025-04-23 21:54:28,963 - INFO - EvolutionaryTrainer inicializado com 5 agentes
+2025-04-23 21:54:28,965 - INFO - Iniciando treinamento com 5 agentes
+2025-04-23 21:54:28,965 - INFO - 
+=== Episódio 1/1000 ===
+2025-04-23 21:54:28,969 - INFO - Total de lixos: 3
+2025-04-23 21:54:29,076 - ERROR - Erro durante o treinamento: As coordenadas devem ser números.
+2025-04-23 21:54:29,077 - ERROR - Erro ao avaliar agentes: max() iterable argument is empty
+2025-04-23 21:54:29,078 - ERROR - Erro na finalização: too many values to unpack (expected 2)
+2025-04-23 22:00:08,361 - INFO - Total de lixos: 3
+2025-04-23 22:00:08,400 - INFO - Inicializando CompetitiveTrashGame com 5 agentes
+2025-04-23 22:00:08,401 - INFO - EvolutionaryTrainer inicializado com 5 agentes
+2025-04-23 22:00:08,402 - INFO - Iniciando treinamento com 5 agentes
+2025-04-23 22:00:08,422 - INFO - 
+=== Episódio 1/1000 ===
+2025-04-23 22:00:08,422 - INFO - Total de lixos: 3
+2025-04-23 22:00:08,496 - ERROR - Erro durante o treinamento: As coordenadas devem ser números.
+2025-04-23 22:00:08,497 - ERROR - Erro ao avaliar agentes: max() iterable argument is empty
+2025-04-23 22:00:08,498 - ERROR - Erro na finalização: too many values to unpack (expected 2)
+2025-04-23 22:08:33,646 - INFO - Total de lixos: 3
+2025-04-23 22:08:33,674 - INFO - Inicializando CompetitiveTrashGame com 5 agentes
+2025-04-23 22:08:33,675 - INFO - EvolutionaryTrainer inicializado com 5 agentes
+2025-04-23 22:08:33,675 - INFO - Iniciando treinamento com 5 agentes
+2025-04-23 22:08:33,675 - INFO - 
+=== Episódio 1/1000 ===
+2025-04-23 22:08:33,677 - INFO - Total de lixos: 3
+2025-04-23 22:08:33,773 - ERROR - Erro durante o treinamento: As coordenadas devem ser números.
+2025-04-23 22:08:33,775 - ERROR - Erro ao avaliar agentes: max() iterable argument is empty
+2025-04-23 22:08:33,776 - ERROR - Erro na finalização: too many values to unpack (expected 2)
+2025-04-23 22:11:14,537 - INFO - Total de lixos: 3
+2025-04-23 22:11:14,570 - INFO - Inicializando CompetitiveTrashGame com 5 agentes
+2025-04-23 22:11:14,573 - INFO - EvolutionaryTrainer inicializado com 5 agentes
+2025-04-23 22:11:14,573 - INFO - Iniciando treinamento com 5 agentes
+2025-04-23 22:11:14,574 - INFO - 
+=== Episódio 1/1000 ===
+2025-04-23 22:11:14,574 - INFO - Total de lixos: 3
+2025-04-23 22:11:14,715 - ERROR - Erro durante o treinamento: As coordenadas devem ser números.
+2025-04-23 22:11:14,715 - WARNING - Agente 0 sem scores registrados
+2025-04-23 22:11:14,716 - WARNING - Agente 1 sem scores registrados
+2025-04-23 22:11:14,716 - WARNING - Agente 2 sem scores registrados
+2025-04-23 22:11:14,717 - WARNING - Agente 3 sem scores registrados
+2025-04-23 22:11:14,717 - WARNING - Agente 4 sem scores registrados
+2025-04-23 22:11:14,718 - INFO - === Ranking de Agentes (por melhor desempenho individual) ===
+2025-04-23 22:11:14,718 - INFO - 1º - Agente 0: 0.00 pts
+2025-04-23 22:11:14,719 - INFO - 2º - Agente 1: 0.00 pts
+2025-04-23 22:11:14,719 - INFO - 3º - Agente 2: 0.00 pts
+2025-04-23 22:11:14,720 - INFO - 4º - Agente 3: 0.00 pts
+2025-04-23 22:11:14,720 - INFO - 5º - Agente 4: 0.00 pts
+2025-04-23 22:11:14,754 - INFO - Melhor modelo da geração 0 salvo: saved_models\best_models\gen_0_score_0.00_20250423_221114.pt
+2025-04-23 22:11:14,757 - INFO - 
+ NOVO RECORDE - Agente 0 selecionado!
+2025-04-23 22:11:14,758 - INFO -  Melhor desempenho individual: 0.00 pts
+2025-04-23 22:11:14,758 - INFO -  Salvando como novo melhor modelo...
+2025-04-23 22:11:14,779 - INFO - Melhor score desta geração: 0.00 (Não superou o recorde: 0.00)
+2025-04-23 22:11:47,038 - INFO - Total de lixos: 3
+2025-04-23 22:11:47,077 - INFO - Inicializando CompetitiveTrashGame com 5 agentes
+2025-04-23 22:11:47,165 - INFO - Carregado melhor modelo com score: 0.0
+2025-04-23 22:11:47,181 - INFO - EvolutionaryTrainer inicializado com 5 agentes
+2025-04-23 22:11:47,181 - INFO - Iniciando treinamento com 5 agentes
+2025-04-23 22:11:47,182 - INFO - 
+=== Episódio 1/1000 ===
+2025-04-23 22:11:47,182 - INFO - Total de lixos: 3
+2025-04-23 22:11:47,307 - ERROR - Erro durante o treinamento: As coordenadas devem ser números.
+2025-04-23 22:11:47,310 - INFO - Removido modelo não utilizado: evolutionary_trash_collector_agent_0_20250423_221114.pt
+2025-04-23 22:11:47,314 - INFO - Removido modelo não utilizado: evolutionary_trash_collector_agent_1_20250423_221114.pt
+2025-04-23 22:11:47,317 - INFO - Removido modelo não utilizado: evolutionary_trash_collector_agent_2_20250423_221114.pt
+2025-04-23 22:11:47,320 - INFO - Removido modelo não utilizado: evolutionary_trash_collector_agent_3_20250423_221114.pt
+2025-04-23 22:11:47,323 - INFO - Removido modelo não utilizado: evolutionary_trash_collector_agent_4_20250423_221114.pt
+2025-04-23 22:11:47,323 - WARNING - Agente 0 sem scores registrados
+2025-04-23 22:11:47,323 - WARNING - Agente 1 sem scores registrados
+2025-04-23 22:11:47,324 - WARNING - Agente 2 sem scores registrados
+2025-04-23 22:11:47,324 - WARNING - Agente 3 sem scores registrados
+2025-04-23 22:11:47,324 - WARNING - Agente 4 sem scores registrados
+2025-04-23 22:11:47,325 - INFO - === Ranking de Agentes (por melhor desempenho individual) ===
+2025-04-23 22:11:47,325 - INFO - 1º - Agente 0: 0.00 pts
+2025-04-23 22:11:47,325 - INFO - 2º - Agente 1: 0.00 pts
+2025-04-23 22:11:47,325 - INFO - 3º - Agente 2: 0.00 pts
+2025-04-23 22:11:47,326 - INFO - 4º - Agente 3: 0.00 pts
+2025-04-23 22:11:47,326 - INFO - 5º - Agente 4: 0.00 pts
+2025-04-23 22:11:47,340 - INFO - Melhor modelo da geração 0 salvo: saved_models\best_models\gen_0_score_0.00_20250423_221147.pt
+2025-04-23 22:11:47,342 - INFO - 
+ Melhor agente da geração: Agente 0
+2025-04-23 22:11:47,345 - INFO -  Desempenho: 0.00 pts
+2025-04-23 22:11:47,345 - INFO -  Recorde atual: 0.00 pts (Agente -inf)
+2025-04-23 22:11:47,346 - INFO - Melhor score desta geração: 0.00 (Não superou o recorde: 0.00)

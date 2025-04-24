@@ -1,0 +1,9 @@
+2025-04-23 21:53:21,997 - INFO - Iniciando treinamento...
+2025-04-23 21:53:26,700 - INFO - Total de lixos: 3
+2025-04-23 21:53:26,701 - INFO - Inicializando CompetitiveTrashGame com 10 agentes
+2025-04-23 21:53:26,702 - INFO - EvolutionaryTrainer inicializado com 10 agentes
+2025-04-23 21:53:26,702 - INFO - Iniciando treinamento com 10 agentes
+2025-04-23 21:53:26,703 - INFO - 
+=== Episódio 1/1000 ===
+2025-04-23 21:53:26,703 - INFO - Total de lixos: 3
+2025-04-23 21:53:26,869 - INFO - Agente 2 coletou lixo na posição (407, 320)! +680.0 pts

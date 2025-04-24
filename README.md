@@ -49,7 +49,8 @@ pip install -r requirements.txt
 Basic Usage
 python
 Copy
-from evolutionary_trainer import EvolutionaryTrainer
+# Updated usage examples to reflect the new MVC structure
+from controllers.training_controller import EvolutionaryTrainer
 
 # Initialize with 10 AI agents
 trainer = EvolutionaryTrainer(
