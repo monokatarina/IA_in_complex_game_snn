@@ -2,6 +2,11 @@
 
 **An experimental AI project testing Spiking Neural Networks (SNN) in complex multi-agent environments using evolutionary algorithms.**
 
+##  prints
+
+![prints](prints/IA.PNG)
+![prints](prints/IA2.PNG)
+
 ## 📌 Overview
 This project simulates autonomous agents with hybrid neural architectures (MLP + SNN) that learn to collect trash efficiently while managing limited battery resources. It serves as a testbed for:
 - Evolutionary training methods
